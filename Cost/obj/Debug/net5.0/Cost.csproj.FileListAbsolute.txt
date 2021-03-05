@@ -1,0 +1,16 @@
+C:\Users\Иван\source\repos\Cost\Cost\bin\Debug\net5.0\Cost.exe
+C:\Users\Иван\source\repos\Cost\Cost\bin\Debug\net5.0\Cost.deps.json
+C:\Users\Иван\source\repos\Cost\Cost\bin\Debug\net5.0\Cost.runtimeconfig.json
+C:\Users\Иван\source\repos\Cost\Cost\bin\Debug\net5.0\Cost.runtimeconfig.dev.json
+C:\Users\Иван\source\repos\Cost\Cost\bin\Debug\net5.0\Cost.dll
+C:\Users\Иван\source\repos\Cost\Cost\bin\Debug\net5.0\ref\Cost.dll
+C:\Users\Иван\source\repos\Cost\Cost\bin\Debug\net5.0\Cost.pdb
+C:\Users\Иван\source\repos\Cost\Cost\obj\Debug\net5.0\Cost.csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\Cost\Cost\obj\Debug\net5.0\Cost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\source\repos\Cost\Cost\obj\Debug\net5.0\Cost.AssemblyInfoInputs.cache
+C:\Users\Иван\source\repos\Cost\Cost\obj\Debug\net5.0\Cost.AssemblyInfo.cs
+C:\Users\Иван\source\repos\Cost\Cost\obj\Debug\net5.0\Cost.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\Cost\Cost\obj\Debug\net5.0\Cost.dll
+C:\Users\Иван\source\repos\Cost\Cost\obj\Debug\net5.0\ref\Cost.dll
+C:\Users\Иван\source\repos\Cost\Cost\obj\Debug\net5.0\Cost.pdb
+C:\Users\Иван\source\repos\Cost\Cost\obj\Debug\net5.0\Cost.genruntimeconfig.cache
